@@ -1,0 +1,5 @@
+{"token": "TOKEN",
+"Servers": "ID DU SERVEUR",
+"Channels": "ID DU SALON LOG",
+"bots": ["ID DES BOTS", "SEPARER COMME CA", "AVEC UNE VIRGULE", "POUR PLUS DE BOTS"] 
+}
